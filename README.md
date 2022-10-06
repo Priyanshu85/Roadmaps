@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/83485475/194409738-d6d83ade-67f4-4234-9b4b-0a01114666e0.png)
+![image](https://user-images.githubusercontent.com/83485475/194409869-9a1753a5-d99f-4e19-84aa-1d7d1bc178ae.png)
 
 # Roadmaps
 
