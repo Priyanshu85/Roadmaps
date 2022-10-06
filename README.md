@@ -8,7 +8,7 @@ I want people to share roadmaps to different DSA topics.
 
 ## What to Contribute
 
-Example if the topic is Linked-List one should a deailed Roadmap on how to conquer this topic and also can share questions path like with which question to start and how to master the topic.
+Example if the topic is Linked-List one should share a deatailed Roadmap with folder name Linked-List on how to conquer this topic and also can share questions path like with which question to start and how to master the topic.
 
 
 # Steps for Contribution
