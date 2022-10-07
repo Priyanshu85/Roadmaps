@@ -10,8 +10,11 @@ I want people to share roadmaps to different DSA topics.
 
 Example Topic Pointers:
 -Definition of Pointer
+
 -Types of Pointers
+
 -Deep Dive into theory like giving an example that Array can be passed into a function using Pointers but you cannot return the whole array using it....other than you return the first value using the pointer and the whole array is changed.Like you can tell people how array and pointers are difference in their essence and when you initialize an array with pointer and see the size of Pointer its only 8 bytes but the whole array is of 40bytes. Now after that you can give a short code snipped to get better understanding of this.
+
 -Tell People to first learn about primary pointer and given them some relevant questions link. then you can let them move to class Pointer(->) and tell them its use in Data Structures.
 
 
