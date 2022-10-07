@@ -9,6 +9,7 @@ I want people to share roadmaps to different DSA topics.
 ## What to Contribute
 
 Example Topic Pointers:
+
 -Definition of Pointer
 
 -Types of Pointers
